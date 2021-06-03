@@ -23,6 +23,8 @@ https://digestpath2019.grand-challenge.org/Dataset/
 
 Colorectal dataset (contributed by this paper):contains 4198 microscopy images, which are distributed as follows: adenoma, polyp, adenocarcinoma, gastrointestinal stromal tumor, and neuroendocrine tumor
 
+If you have questions regarding the patch dataset (with or without noisy labels, please contact us: czhu@bupt.edu.cn)
+
 ## Envs
 - Pytorch 1.0
 - Python 3+
