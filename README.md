@@ -46,5 +46,5 @@ $ python co-teaching.py
 ```
 ## Contact
 
-* email：2391207566@qq.com
+* email：2391207566@qq.com; czhu@bupt.edu.cn
 * qq: 2391207566
