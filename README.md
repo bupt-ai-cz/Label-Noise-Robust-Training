@@ -3,8 +3,6 @@
 
 Implementation detail for our paper ["Noise Robust Learning with Hard Example Aware for Pathological Image classification"](https://ieeexplore.ieee.org/abstract/document/9344937), this code also includes further resaerch beyound this paper.
 
-For the implementation for our paper ["Pathological Image Classification Based on Hard Example Guided CNN"](https://ieeexplore.ieee.org/abstract/document/9119412), please refer to code/code_access/train_history.py
-
 ## Citation
 
 Please cite this paper in your publications if it helps your research:
@@ -18,18 +16,6 @@ Please cite this paper in your publications if it helps your research:
   year={2020},
   organization={IEEE}
 }
-```
-
-```
-@ARTICLE{wang2020Pathological,  
-  author={Wang, Ying and Peng, Ting and Duan, Jiajia and Zhu, Chuang and Liu, Jun and Ye, Jiandong and Jin, Mulan},  
-  journal={IEEE Access},   
-  title={Pathological Image Classification Based on Hard Example Guided CNN},   
-  year={2020},  
-  volume={8},  
-  number={},  
-  pages={114249-114258},  
-  doi={10.1109/ACCESS.2020.3003070}}
 ```
 
 ## Dataset
@@ -56,6 +42,20 @@ $ python pre_iter.py
 $ python train.py
 # co-teaching training
 $ python co-teaching.py
+```
+
+For the implementation for our paper ["Pathological Image Classification Based on Hard Example Guided CNN"](https://ieeexplore.ieee.org/abstract/document/9119412), please refer to code/code_access/train_history.py
+
+```
+@article{wang2020pathological,
+  title={Pathological image classification based on hard example guided CNN},
+  author={Wang, Ying and Peng, Ting and Duan, Jiajia and Zhu, Chuang and Liu, Jun and Ye, Jiandong and Jin, Mulan},
+  journal={IEEE Access},
+  volume={8},
+  pages={114249--114258},
+  year={2020},
+  publisher={IEEE}
+}
 ```
 
 ## Contact
