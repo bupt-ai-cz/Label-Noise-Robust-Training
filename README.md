@@ -44,7 +44,8 @@ $ python train.py
 $ python co-teaching.py
 ```
 
-#Pathological Image Classification Based on Hard Example Guided CNN
+# Pathological Image Classification Based on Hard Example Guided CNN
+
 For the implementation for our paper ["Pathological Image Classification Based on Hard Example Guided CNN"](https://ieeexplore.ieee.org/abstract/document/9119412), please refer to code/code_access/train_history.py
 
 ```
