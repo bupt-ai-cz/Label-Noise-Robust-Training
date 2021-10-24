@@ -3,7 +3,7 @@
 
 Implementation detail for our paper ["Noise Robust Learning with Hard Example Aware for Pathological Image classification"](https://ieeexplore.ieee.org/abstract/document/9344937), this code also includes further resaerch beyound this paper.
 
-For the implementation for our paper ["Pathological Image Classification Based on Hard Example Guided CNN"](https://ieeexplore.ieee.org/abstract/document/9119412), please refer to code_access/train_history.py
+For the implementation for our paper ["Pathological Image Classification Based on Hard Example Guided CNN"](https://ieeexplore.ieee.org/abstract/document/9119412), please refer to code/code_access/train_history.py
 
 ## Citation
 
