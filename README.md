@@ -1,4 +1,4 @@
-# Paper 1:
+<h2> <p align="center"> Paper 1 </p> </h2>  
 # Noise Robust Learning with Hard Example Aware for Pathological Image classification 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Codes%20and%20Data%20for%20Our%20Paper:%20"Noise%20Robust%20Learning%20with%20Hard%20Example%20Aware%20for%20Pathological%20Image%20classification"%20&url=https://github.com/bupt-ai-cz/Label-Noise-Robust-Training)
 
@@ -45,7 +45,7 @@ $ python train.py
 $ python co-teaching.py
 ```
 
-# Paper 2:
+<h2> <p align="center"> Paper 2 </p> </h2>  
 # Pathological Image Classification Based on Hard Example Guided CNN
 
 For the implementation for our paper ["Pathological Image Classification Based on Hard Example Guided CNN"](https://ieeexplore.ieee.org/abstract/document/9119412), please refer to code/code_access/train_history.py 
