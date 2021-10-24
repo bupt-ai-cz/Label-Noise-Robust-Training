@@ -69,5 +69,5 @@ Please cite this paper in your publications if it helps your research:
 
 ## Contact
 
-* email：2391207566@qq.com; czhu@bupt.edu.cn
+* email：wkchen@bupt.edu.cn;czhu@bupt.edu.cn;2391207566@qq.com
 * qq: 2391207566
